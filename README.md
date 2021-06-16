@@ -6,4 +6,4 @@ Link to Repository https://github.com/absius/urban-octo-telegram/tree/main/Devel
 
 Link to deployed page https://absius.github.io/urban-octo-telegram/
 
-Screen Capture .\images\ScreenCapture.PNG
+Screen Capture https://github.com/absius/urban-octo-telegram/blob/main/Develop/assets/images/ScreenCapture.PNG
